@@ -12,7 +12,7 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 along with the employee churn status.
 2. Preprocess and split the dataset into training data and testing data.
 3. Create and train the Decision Tree Classifier using the training data to learn the patterns associated with employee churn.
-4. Predict the churn status of employees using the trained model and evaluate the model's performance. Stop
+4. Predict the churn status of employees using the trained model and evaluate the model's performance. 
 
 ## Program:
 ```
